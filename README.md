@@ -12,5 +12,8 @@
 ## Top Countries Cases and Deaths
 ![Confirmed Top Cases and Deaths by Countries](https://user-images.githubusercontent.com/54865943/84334571-add74d80-ab60-11ea-8319-e59c4b89bc23.png)
 
+## Compared Cases in Four Countries
+![Comparision of Cases in four Countries](https://user-images.githubusercontent.com/54865943/84334705-04448c00-ab61-11ea-9877-9f881b647852.png)
 
+The Data of following COVID-19 Cases is till first week of May 2020.
 
